@@ -1,0 +1,1 @@
+![DALL·E 2024-07-29 12 41 33 - A futuristic cybersecurity Security Operations Center (SOC) with a different style  This scene features a sleek, modern design with dark tones and vib](https://github.com/user-attachments/assets/517faa00-a6b4-4f34-9d28-5458fe0884b8)
