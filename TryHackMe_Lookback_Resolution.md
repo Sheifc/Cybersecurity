@@ -22,7 +22,7 @@ The process began with a network scan to identify services and possible entry po
 
 **Nmap Output (Relevant):**
 
-Text
+```Text
 PORT     STATE SERVICE       VERSION
 80/tcp   open  http          Microsoft IIS httpd 10.0
 443/tcp  open  ssl/https     Microsoft IIS httpd 10.0
@@ -30,7 +30,7 @@ PORT     STATE SERVICE       VERSION
 | ssl-cert: Subject: commonName=WIN-12OUO7A66M7
 | Subject Alternative Name: DNS:WIN-12OUO7A66M7, DNS:WIN-12OUO7A66M7.thm.local
 3389/tcp open  ms-wbt-server Microsoft Terminal Services
-
+```
 **Key Findings:**
 
 * **Open Ports:**
